@@ -1,1 +1,1 @@
-# pytorch-exercises
+# PyTorch Exercises
